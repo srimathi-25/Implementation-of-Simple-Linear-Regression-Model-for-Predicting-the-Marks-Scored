@@ -110,7 +110,9 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-
+## DATA.HEAD():
+![image](https://github.com/srimathi-25/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114581999/73e87bd4-5ce9-4203-9441-ba67159c65a2)
+## DATA.TAIL():
 ![image](https://user-images.githubusercontent.com/114581999/229363874-f3545eb0-472c-495f-8b3c-705a02d9b2a0.png)
 
 ## ARRAY VALUES OF X AND Y:
